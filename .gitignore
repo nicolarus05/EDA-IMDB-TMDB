@@ -1,0 +1,19 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de datos grandes
+*.csv
+*.zip
+
+# Caché de R
+.Rhistory
+.RData
+
+# IDEs
+.vscode/
+.idea/
+
+# Archivos temporales
+temp/
+~*
